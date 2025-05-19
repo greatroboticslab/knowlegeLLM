@@ -1,4 +1,4 @@
-# KnowledgeLLM
+# KnowlegeLLM
 
 A powerful AI-driven knowledge system built on MiniGPT-4, integrating visual and textual understanding with enhanced search capabilities and knowledge graph visualization.
 
@@ -25,8 +25,8 @@ A powerful AI-driven knowledge system built on MiniGPT-4, integrating visual and
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/greatroboticslab/knowledgeLLM.git
-cd knowledgeLLM
+git clone https://github.com/greatroboticslab/knowlegeLLM.git
+cd knowlegeLLM
 ```
 
 2. Create a `.env` file in the root directory and add your SERPAPI key:
